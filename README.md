@@ -1,9 +1,6 @@
 # 🛍️ AI Ecommerce Copy Crafter
 **with OpenAI SDK**
 
-
-🌐 **See the Live Application**: [https://ai-ecommerce-copy-crafter.vercel.app/](https://ai-ecommerce-copy-crafter.vercel.app/)
-
 > **Transform product ideas into high-converting ecommerce copy instantly. Generate SEO-optimized titles, descriptions, and A+ content with AI—then ship directly to Shopify.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -189,30 +186,6 @@ Uses OpenAI Whisper for high-accuracy transcription in 50+ languages.
 
 ---
 
-### 📦 Batch Generation
-
-#### Process Multiple Products
-1. Click **"Batch Upload"** button
-2. Drag & drop CSV file or click to browse
-3. CSV format:
-   ```csv
-   title,description,keywords
-   "Product 1","Description 1","keyword1,keyword2"
-   "Product 2","Description 2","keyword3,keyword4"
-   ```
-4. Review parsed products
-5. Click **"Start Batch Generation"**
-6. Watch progress in real-time
-7. Download results as JSON when complete
-
-Perfect for migrating catalogs or bulk content creation!
-
----
-
-
-
----
-
 ## 🎨 Customization
 
 ### Theme Options
@@ -260,10 +233,6 @@ All presets are starting points—AI adapts based on:
 2. **Include 2-5 samples** - More = better analysis
 3. **Use representative text** - Actual brand content, not generic
 4. **Update regularly** - As your brand evolves
-
----
-
-
 
 ---
 
@@ -318,41 +287,6 @@ This project is licensed under the **MIT License**.
 
 See [LICENSE](LICENSE) file for details.
 
-```
-MIT License
-
-Copyright (c) 2025 Derril Filemon
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
-## 📞 Support
-
-Need help? We're here for you:
-
-- 📧 **Email**: support@ecomcopycrafter.com
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/derril-tech/ai-ecommerce-copy-crafter/issues)
-- 💬 **Questions**: [GitHub Discussions](https://github.com/derril-tech/ai-ecommerce-copy-crafter/discussions)
-- 📖 **Documentation**: [API Docs](https://your-api.railway.app/docs)
-
 ---
 
 ## ⚠️ Important Notes
@@ -386,16 +320,10 @@ Need help? We're here for you:
 
 <div align="center">
 
-**⭐ Star this repo if you find it useful!**
-
 **Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)**
-
-[🏠 Home](https://ai-ecommerce-copy-crafter.vercel.app/) • [📖 Docs](https://github.com/derril-tech/ai-ecommerce-copy-crafter#readme) • [🐛 Issues](https://github.com/derril-tech/ai-ecommerce-copy-crafter/issues) • [💬 Discussions](https://github.com/derril-tech/ai-ecommerce-copy-crafter/discussions)
 
 ---
 
 ### 🚀 Ready to craft amazing product copy?
-
-[**Try it now →**](https://ai-ecommerce-copy-crafter.vercel.app/)
 
 </div>
